@@ -22,7 +22,7 @@ Install  all the neccessary node modules
 ```
 Run the file
 ```bash
-  npm run start
+  npm run dev
   
 ```
 # Hi, I'm Suraj Bhola! 👋
